@@ -1,5 +1,5 @@
 This repository contains codes and datasets for the time series segmenttion of Sparkasse datasets
-Project Title
+# User Segmentation based on the user transactions.
 Simple overview of use/purpose.
 
 Description
