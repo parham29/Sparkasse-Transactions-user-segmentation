@@ -3,6 +3,8 @@ This repository contains codes and datasets for the time series segmenttion of S
 This repository contains jupyter notebooks and datasets that we used in our university project
 
 ## Description
-- An in-depth paragraph about your project and overview of use.
-
+- Using ROCKET and MINIROCKET algorithms 
+- Containing Muti and univariate datsets (multilabel)
+- 
 ## Getting Started
+
